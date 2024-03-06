@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nJ0XwfS9IbtGbzd/hIB2FpSIzgQOAEa3O/rkoF/mXhdoM5ZDtqLUnqDiZNFco6dPIw4TeM/sWL1U5vAzyxJtTw==",
+  "dgSpecHash": "oOWNrRcJK9GaZR8VM8idpS45SasLYb5oLev0FYKmFB75tKFgLsTwNV4BWPqchlbm9fB/yywuQsfXreiQ/eshdg==",
   "success": true,
   "projectFilePath": "/Users/aj/repos/AI-102-ai-language/Labfiles/02-qna/C-Sharp/qna-app/qna-app.csproj",
   "expectedPackageFiles": [
+    "/Users/aj/.nuget/packages/azure.ai.language.questionanswering/1.1.0/azure.ai.language.questionanswering.1.1.0.nupkg.sha512",
+    "/Users/aj/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
+    "/Users/aj/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/aj/.nuget/packages/microsoft.extensions.configuration/3.1.3/microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "/Users/aj/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.3/microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
     "/Users/aj/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.3/microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
@@ -11,7 +14,13 @@
     "/Users/aj/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.3/microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
     "/Users/aj/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.3/microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
     "/Users/aj/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.3/microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.primitives/3.1.3/microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+    "/Users/aj/.nuget/packages/microsoft.extensions.primitives/3.1.3/microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "/Users/aj/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/aj/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/aj/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/aj/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/aj/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/aj/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
