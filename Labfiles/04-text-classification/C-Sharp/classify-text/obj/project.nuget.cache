@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "CtX9wcK3qDwB0sgw1paSrFjW92aJgC9yUyAZpZL07afDELuiq8hNakKqCUrmIMwJC+Ul3WG3BcE5cR5THtV97A==",
+  "dgSpecHash": "TWo4l+fSkMI+P2+KKxElBMuTN3DhGgXMk6gzbPaM+Loe4GN3clX66ILkSDN2RPRPrGJJkpIPVupKNdzmV4UHFw==",
   "success": true,
-  "projectFilePath": "/Users/aj/repos/AI-102-ai-language/Labfiles/04-text-classification/C-Sharp/classify-text/classify-text.csproj",
+  "projectFilePath": "C:\\repos\\AI-102-ai-language\\Labfiles\\04-text-classification\\C-Sharp\\classify-text\\classify-text.csproj",
   "expectedPackageFiles": [
-    "/Users/aj/.nuget/packages/microsoft.extensions.configuration/3.1.3/microsoft.extensions.configuration.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.3/microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.3/microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.configuration.json/3.1.3/microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.3/microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.3/microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.3/microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
-    "/Users/aj/.nuget/packages/microsoft.extensions.primitives/3.1.3/microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.3\\microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "C:\\Users\\ajenns\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
   ],
   "logs": []
 }

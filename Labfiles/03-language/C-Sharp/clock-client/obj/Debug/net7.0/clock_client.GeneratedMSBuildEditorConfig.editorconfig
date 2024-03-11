@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = clock_client
-build_property.ProjectDir = /Users/aj/repos/AI-102-ai-language/Labfiles/03-language/C-Sharp/clock-client/
+build_property.ProjectDir = C:\repos\AI-102-ai-language\Labfiles\03-language\C-Sharp\clock-client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
